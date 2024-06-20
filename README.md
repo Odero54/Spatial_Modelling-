@@ -1,3 +1,5 @@
+................................ABSTRACT.....................
+
 Urban walkability is the extent to which an environment, especially a built environment, allows 
 walking and is pedestrian-friendly. Walkable neighborhoods are great for health, happiness and 
 economic growth. This research analyses disparities in walking conditions at a 5 km buffer in 
